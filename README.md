@@ -3,8 +3,11 @@ Simple POC for a Brute-Force SSH dictorionary password attack.
 
 FOR TESTING PURPOSE AND SELF LEARNING!! 
 
+It's necessary to obtain an already downloaded dictionary with passwords. Typically, "rockyou.txt" (Google it!)
+
 Option available:
--f file text to use as a dictionary. Tipically "rockyou.txt" (google!)
+
+-f file text to use as a dictionary. 
 
 -h remote server
 
